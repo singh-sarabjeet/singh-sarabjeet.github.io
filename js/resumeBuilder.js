@@ -4,7 +4,7 @@ var work = {
 		"employer" : "PowerSchool India",
 		"title" : "Associate Software Engineer",
 		"location" : "Bengaluru",
-		"dates" : "June,2016 - Current",
+		"dates" : "June,2017 - Current",
 		"description" : "Working as a full stack developer to create enhancements for PowerSchool State Reporting Compliance."
 	},
 	{
@@ -55,7 +55,7 @@ var bio = {
 	"contacts" : {
 		"mobile" : 8285803721,
 		"email" : "sjsingh200893@gmail.com",
-		"github" : "sjsingh200893",
+		"github" : "singh-sarabjeet",
 		"twitter" : "@tweetsammy",
 		"location" : "Bengaluru"
 	}
@@ -75,13 +75,7 @@ var education = {
 		"title" : "Udacity Android Developer Nanodegree",
 		"school" : "Udacity",
 		"dates" : "August,2016 - May,2017",
-		"url" : "udacity_certi_link"
-	},
-	{
-		"title" : "Passwordless Login Solutions for Android",
-		"school" : "Udacity",
-		"dates" : "May,2016 - Ongoing",
-		"url" : "certi_link"
+		"url" : "https://confirm.udacity.com/SA5QKQDT"
 	}]
 };
 
