@@ -1,18 +1,18 @@
 var work = {
 	"jobs":[
 	{
-		"employer" : "BizViz Technologies",
+		"employer" : "PowerSchool India",
 		"title" : "Associate Software Engineer",
 		"location" : "Bengaluru",
 		"dates" : "June,2016 - Current",
-		"description" : "Working on migrating the existing 4D database to the new Oracle database"
+		"description" : "Working as a full stack developer to create enhancements for PowerSchool State Reporting Compliance."
 	},
 	{
 		"employer" : "Cognizant Technology Solutions",
 		"title" : "Programmer Analyst",
 		"location" : "Bengaluru",
 		"dates" : "October,2016 - June,2017",
-		"description" : "Worked on integration algorithm of two products" 
+		"description" : "Worked on integration algorithm of Adpart with another proprietary software." 
 	}
 	]
 };
